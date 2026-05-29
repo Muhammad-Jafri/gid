@@ -2,7 +2,7 @@
 
 Switch between Git identities (name, email, GitHub token, SSH key) per shell session.
 
-## Install
+## Installation
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/Muhammad-Jafri/gid/main/install.sh | bash
